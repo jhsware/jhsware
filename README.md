@@ -1,3 +1,3 @@
 <div align="center">
-  <p>Some of the projects I am working on:</p>
+  <p>Mostly Typescript, Dart, Nix and Bash.</p>
 </div>
