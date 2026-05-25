@@ -1,5 +1,6 @@
 <div align="center">
-  <p>Mostly Typescript, Dart, HTML, CSS, Nix and Bash.</p>
-  <p>Usually Nodejs and Flutter. Also some plain Dart and Deno.</p>
-  <p>NixOS is on the rise. Azure for work.</p>
+  <p>Mostly Dart, Flutter, Nix and Bash.</p>
+  <p>Right now focusing on harness engineering.</p>
+  <p>Fullstack Dart. IaC and AI assisted SysOps using NixOS to reduce reliance on hyperscalers.</p>
+  <p>Previously: Typescript, Joavascript, Nodejs, Azure.</p>
 </div>
